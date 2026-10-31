@@ -1,5 +1,9 @@
 ## Mods à télécharger :
+- [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.72]
+- [Cosy Critters & Creepy Crawlies](https://modrinth.com/mod/61PI8Hzj) [0\.3\.3]
 - [Create & FD Dough](https://modrinth.com/mod/UH3ZCkYf) [1\.0\.0]
+- [Fixed Anvil Repair Cost](https://modrinth.com/mod/jmLyNFBG) [4\.0]
+- [Jade](https://modrinth.com/mod/nvQzSEkH) [15\.10\.6\+neoforge]
 
 ## Liste complète :
 - [Abundant Atmosphere](https://modrinth.com/mod/N8ZATCCG) [1\.21\.1\-2\.0\.0\-beta2\-neoforge]
