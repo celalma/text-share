@@ -1,11 +1,5 @@
 ## Mods à télécharger :
-- [Brewin' And Chewin'](https://modrinth.com/mod/hIu9KJTT) [4\.5\.0]
-- [Chefs Delight](https://modrinth.com/mod/pvcsfne4) [1\.0\.6]
-- [Display Delight](https://modrinth.com/mod/yXepZhp8) [1\.7\.0]
-- [Manual Labour](https://modrinth.com/mod/kCbtgaek) [2\.5\.1]
-- [My Nether's Delight](https://modrinth.com/mod/O53VhQoZ) [1\.10\.4\.1]
-- [ShutterUp](https://modrinth.com/mod/xaH4PQRj) [1\.2\.1]
-- [Smarter Farmers](https://modrinth.com/mod/Bh6ZOMvp) [1\.21\-2\.2\.4]
+- [Create & FD Dough](https://modrinth.com/mod/UH3ZCkYf) [1\.0\.0]
 
 ## Liste complète :
 - [Abundant Atmosphere](https://modrinth.com/mod/N8ZATCCG) [1\.21\.1\-2\.0\.0\-beta2\-neoforge]
@@ -46,6 +40,7 @@
 - [Craftable Chainmail Armor](https://modrinth.com/mod/raz4aMjT) [1\.4]
 - [Crash Assistant](https://modrinth.com/mod/ix1qq8Ux) [1\.11\.12]
 - [Create](https://modrinth.com/mod/LNytGWDc) [6\.0\.10]
+- [Create & FD Dough](https://modrinth.com/mod/UH3ZCkYf) [1\.0\.0]
 - [Create Deco](https://modrinth.com/mod/sMvUb4Rb) [2\.1\.3]
 - [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) [4\.3\.4]
 - [Create: Copper and Zinc](https://modrinth.com/mod/aqYNR6rI) [1\.6\.0]
